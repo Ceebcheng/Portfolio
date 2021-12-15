@@ -40,4 +40,47 @@
 #home{
     display: flex;
     flex-direction: column;
+    height: 300px;
+    justify-content: center;
+    align-items: center;
+    background-color: lightsalmon;
+    
+}
+
+
+.heading {
+    color: black;
+    font-size: 4rem;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    text-align: center;
+}
+
+
+
+.photo {
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+    background-color: lightsalmon;
+}
+
+.photo img {
+    width: 400px;
+    height: 400px;
+    padding: 10px;
+    margin: 10px;
+}
+
+.photo img:hover{
+    background-color: white;
+    cursor: pointer;
+    box-shadow: 0 0 40px white;
+    transition: all 1s ease;
+}
+
+#Aboutme p{
+    padding: 10px;
+    margin: 10px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: large;
 }
