@@ -150,15 +150,29 @@ html{
 }
 
 
+@media screen and (max-width: 768px) {
+    .heading {
+        font-size: 35px;
+    }
+    p{
+        font-size: 20px;
+    }
+    .box{
+        height: 75%;
+        width: 75%;
+        background-color: gray;
+        border-radius: 20px;
+        margin: 5px;
+        padding: 10px;
+    }
 
-@media screen and (max-width: 1080px) {
-    
-}
+    .navbar ul li a{
+        padding: 7.5px 7.5px;
+    }
 
-@media screen and (max-width: 720px) {
-    
-} 
+    .photo img {
+        width: 250px;
+        height: 250px;
 
-@media screen and (max-width: 480px) {
-    
+    }
 }
