@@ -4,6 +4,10 @@
     box-sizing: border-box;
 }
 
+html{
+    scroll-behavior: smooth;
+}
+
 .navbar {
     display: flex;
     justify-content: center;
@@ -15,7 +19,7 @@
 .navbar ul{
     display: flex;
     list-style-type: none;
-    margin: 50px 0px;
+    margin: 20px 0px;
 }
 
 .navbar ul li{
@@ -50,9 +54,11 @@
 
 .heading {
     color: black;
-    font-size: 4rem;
+    font-size: 75px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     text-align: center;
+    margin: 0px;
+    padding: 50px;
 }
 
 
@@ -65,6 +71,8 @@
 }
 
 .photo img {
+    display: flex;
+    flex-wrap: wrap;
     width: 400px;
     height: 400px;
     padding: 10px;
@@ -78,9 +86,79 @@
     transition: all 1s ease;
 }
 
+#Aboutme{
+    background-color: lightsalmon;
+}
+
 #Aboutme p{
     padding: 10px;
     margin: 10px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
-    font-size: large;
+    font-size: 25px;
+}
+
+#work {
+    display: flex;
+    flex-direction: column;
+    background-color: lightsalmon;
+}
+
+#work h1{
+    margin: 60px;
+}
+
+.columns{
+    display: flex;
+    flex-wrap: wrap;
+    grid-template-columns: auto auto;
+    padding-left: 50px;
+}
+
+.box{
+    height: 200px;
+    width: 500px;
+    background-color: gray;
+    border-radius: 20px;
+    margin: 10px;
+    padding: 20px;
+}
+
+.box:hover{
+    box-shadow: 5px 5px lightgreen;
+}
+
+.box h2{
+    color: lightgreen;
+    font-size: 30px;
+    margin-bottom: 40px;
+}
+
+.box p{
+    color: white;
+    font-size: 15px;
+}
+
+#contactme{
+    background-color: gray;
+}
+
+#contactme p{
+    padding: 10px;
+    margin: 10px;
+    text-align: center;
+    font-size: 30px;
+}
+
+
+
+@media screen and (max-width: 1080px) {
+    
+}
+
+@media screen and (max-width: 720px) {
+    
+} 
+
+@media screen and (max-width: 480px) {
+    
 }
