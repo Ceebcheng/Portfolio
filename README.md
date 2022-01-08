@@ -1,7 +1,6 @@
 
 # My Portfolio
 
-
 ## Authors
 
 - [@Ceebcheng Yang](https://github.com/Ceebcheng)
@@ -27,3 +26,6 @@ A link to my homework. In this application you will able to generate a random pa
 A link to my homework. This simple day planner will help you plan your day from 9am - 5pm.
 Simply just write what you want on your to-do list and click on the save button after you are done.
 [![portfolio](https://img.shields.io/badge/Day_Planner-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ceebcheng.github.io/Day-Planner/)
+
+My first group project!
+[![portfolio](https://img.shields.io/badge/Bands_and_Brews-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://leodickenson.github.io/Project_1_uofm/)
