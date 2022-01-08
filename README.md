@@ -13,7 +13,7 @@ portfolio that describes a little about me.
 
 ## Screenshots
 
-![App Screenshot](https://github.com/Ceebcheng/Weather-Dashboard/blob/main/Pictures/Capture1.JPG)
+![App Screenshot](https://github.com/Ceebcheng/Portfolio/blob/main/Assets/css/Capture4.JPG)
 
 ## 🔗 Links
 A link to my Application[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ceebcheng.github.io/Portfolio/)
