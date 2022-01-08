@@ -11,4 +11,4 @@ portfolio that describes a little about me.
 
 ## Screenshots
 
-![App Screenshot](https://github.com/Ceebcheng/Weather-Dashboard/blob/main/Pictures/Capture1.JPG)
+![App Screenshot]()
