@@ -31,4 +31,4 @@ My first group project!
 [![portfolio](https://img.shields.io/badge/Bands_and_Brews-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://leodickenson.github.io/Project_1_uofm/)
 
 My second group project!
-[![portfolio](https://img.shields.io/badge/DNR RESOURCE SITE-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://stormy-garden-90236.herokuapp.com/)
+[![portfolio](https://img.shields.io/badge/DNR_RESOURCE_SITE-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://stormy-garden-90236.herokuapp.com/)
